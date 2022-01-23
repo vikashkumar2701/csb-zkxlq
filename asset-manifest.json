@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://vikashkumar2701.github.io/csb-zkxlq/static/css/main.23930c09.chunk.css",
+    "main.js": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/main.eb7f288c.chunk.js",
+    "main.js.map": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/main.eb7f288c.chunk.js.map",
+    "runtime-main.js": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/runtime-main.356717dc.js",
+    "runtime-main.js.map": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/runtime-main.356717dc.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://vikashkumar2701.github.io/csb-zkxlq/static/css/2.cbedb215.chunk.css",
+    "static/js/2.09e65bb6.chunk.js": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/2.09e65bb6.chunk.js",
+    "static/js/2.09e65bb6.chunk.js.map": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/2.09e65bb6.chunk.js.map",
+    "index.html": "https://vikashkumar2701.github.io/csb-zkxlq/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://vikashkumar2701.github.io/csb-zkxlq/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.23930c09.chunk.css.map": "https://vikashkumar2701.github.io/csb-zkxlq/static/css/main.23930c09.chunk.css.map",
+    "static/js/2.09e65bb6.chunk.js.LICENSE.txt": "https://vikashkumar2701.github.io/csb-zkxlq/static/js/2.09e65bb6.chunk.js.LICENSE.txt",
+    "static/media/1.6b659925.svg": "https://vikashkumar2701.github.io/csb-zkxlq/static/media/1.6b659925.svg",
+    "static/media/2.6beaab13.svg": "https://vikashkumar2701.github.io/csb-zkxlq/static/media/2.6beaab13.svg",
+    "static/media/3.78986054.svg": "https://vikashkumar2701.github.io/csb-zkxlq/static/media/3.78986054.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.356717dc.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.09e65bb6.chunk.js",
+    "static/css/main.23930c09.chunk.css",
+    "static/js/main.eb7f288c.chunk.js"
+  ]
+}
